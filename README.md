@@ -1,7 +1,7 @@
 # MyToken - ERC20 Token Contract
 This is a Solidity smart contract for the MyToken ERC20 token. It extends the OpenZeppelin ERC20 contract, providing basic token functionality along with additional features such as minting, burning, and ownership control.
 
-##Features
+## Features
 1. ERC20 Standard: The contract follows the ERC20 token standard, which defines a set of functions and events for interacting with the token.
 2. Name and Symbol: The token is named "Rainbow" with the symbol "RNB".
 3. Minting: The contract owner can mint new tokens and assign them to a specified account.
@@ -10,7 +10,7 @@ This is a Solidity smart contract for the MyToken ERC20 token. It extends the Op
 6. Ownership Control: Only the contract owner can perform certain functions by using the onlyOwner modifier.
    
 
-## Deployment
+## Getting Started
 Clone the repository to your local machine.
 Before getting started, make sure you have the following prerequisites installed:
 
